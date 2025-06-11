@@ -1,0 +1,14 @@
+[project]
+name = "gemma-ollama-workshop-public"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "langfuse>=3.0.1",
+    "mcp==1.7.1",
+    "nest-asyncio>=1.6.0",
+    "openai>=1.86.0",
+    "pydantic>=2.11.5",
+]
